@@ -11,7 +11,7 @@
   <a href="mailto:alirahimi818@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://ali-rahimmi.me">
+  <a href="https://ali-rahimi.me">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=firefoxbrowser&logoColor=white"/>
   </a>
 </p>
